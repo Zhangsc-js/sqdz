@@ -1,0 +1,43 @@
+export default {
+    one: [
+        { message: {}, flag: true, name: '底部定位焊1', left: '46', top: '18' },
+        { message: {}, flag: false, name: '前底板', left: '62', top: '23' },
+        { message: {}, flag: false, name: '前梁', left: '54', top: '25' },
+        { message: {}, flag: false, name: '后底板', left: '36', top: '23' },
+        { message: {}, flag: false, name: '装配线', left: '41', top: '30' },
+        { message: {}, flag: false, name: '后梁', left: '52', top: '30' },
+        { message: {}, flag: false, name: '翼子板', left: '64', top: '38' },
+        { message: {}, flag: false, name: '右后门', left: '36', top: '36' },
+        { message: {}, flag: false, name: '左前门', left: '33', top: '42' },
+        { message: {}, flag: false, name: '右后门', left: '30', top: '50' },
+        { message: {}, flag: false, name: '左后门', left: '26', top: '56' },
+        { message: {}, flag: false, name: '前盖', left: '46', top: '56' },
+        { message: {}, flag: false, name: '后盖', left: '56', top: '60' },
+    ],
+    two: [
+        { message: {}, flag: false, name: '底板2定位焊', left: '42', top: '14' },
+        { message: {}, flag: false, name: '补焊1.2', left: '48', top: '19' },
+        { message: {}, flag: false, name: '补焊1.1', left: '51', top: '21' },
+        { message: {}, flag: false, name: '补焊2.2', left: '55', top: '26' },
+        { message: {}, flag: false, name: '补焊2.1', left: '60', top: '28' },
+        { message: {}, flag: false, name: '补焊2.3', left: '63', top: '31' },
+        { message: {}, flag: false, name: '补焊2.4', left: '67', top: '31' },
+        { message: {}, flag: false, name: '调整线', left: '71', top: '33' },
+        { message: {}, flag: false, name: '打磨线', left: '75', top: '34' },
+        { message: {}, flag: false, name: '轮罩', left: '31', top: '16' },
+        { message: {}, flag: false, name: '左侧围内板', left: '29', top: '24' },
+        { message: {}, flag: false, name: '侧围内板', left: '26', top: '29' },
+        { message: {}, flag: false, name: '右侧围内板', left: '22', top: '35' },
+        { message: {}, flag: false, name: '左侧围外板', left: '18', top: '40' },
+        { message: {}, flag: false, name: '右侧围外板', left: '14', top: '48' },
+        { message: {}, flag: false, name: '水箱', left: '41', top: '20' },
+        { message: {}, flag: false, name: '总拼1', left: '56', top: '37' },
+        { message: {}, flag: false, name: '总拼6', left: '54', top: '42' },
+        { message: {}, flag: false, name: '总拼4', left: '51', top: '47' },
+        { message: {}, flag: false, name: '总拼5', left: '51', top: '54' },
+        { message: {}, flag: false, name: '总拼3', left: '49', top: '63' },
+        { message: {}, flag: false, name: '总拼2', left: '47', top: '70' },
+
+
+    ]
+}
